@@ -1,11 +1,16 @@
-const letters = "abcdefghijklmnopqrstuvwxyz'";
+const letters = "abcdefghijklmnopqrstuvwxyz',";
 const words = [
   "Choose what you lose",
   "Choose or lose",
-  "I'm a Frontend developer",
   "Albert Einstein",
-  "Gaza is the capital of Palestine",
   "Egypt is the mother of the world",
+  "Hold your horses",
+  "Never would have guessed",
+  "Yesterday, wouldn't be too soon",
+  "Have it your way",
+  "You'll get the hang of if",
+  "Vamoose",
+  "A for effort",
 ];
 
 let lettersArray = Array.from(letters);
